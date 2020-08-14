@@ -1,2 +1,0 @@
-# main
-read-me-example
